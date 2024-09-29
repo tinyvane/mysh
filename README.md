@@ -32,6 +32,11 @@ cd mysh
 ```bash
 wget https://raw.githubusercontent.com/tinyvane/mysh/main/check_distro.sh
 ```
+当然+1，你甚至可以不用下载文件到你的目录下，而直接得到结果
+
+```bash
+wget -qO- https://raw.githubusercontent.com/tinyvane/mysh/main/check_distro.sh | bash
+```
 
 每个脚本的具体使用说明可以在对应的脚本文件的注释中找到。
 
