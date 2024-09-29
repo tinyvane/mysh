@@ -26,6 +26,13 @@ git clone https://github.com/tinyvane/mysh.git
 cd mysh
 ./script_name.sh
 ```
+
+当然，你也可以直接下载某个具体的文件
+
+```bash
+wget https://raw.githubusercontent.com/tinyvane/mysh/main/check_distro.sh
+```
+
 每个脚本的具体使用说明可以在对应的脚本文件的注释中找到。
 
 ## 贡献
