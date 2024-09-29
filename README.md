@@ -16,7 +16,7 @@
 你可以通过以下命令克隆此仓库并开始使用：
 
 ```bash
-git clone https://github.com/yourusername/mysh.git
+git clone https://github.com/tinyvane/mysh.git
 ```
 
 ## 使用
@@ -24,7 +24,7 @@ git clone https://github.com/yourusername/mysh.git
 进入 mysh 目录并运行你需要的脚本：
 ```bash
 cd mysh
-./yourscript.sh
+./script_name.sh
 ```
 每个脚本的具体使用说明可以在对应的脚本文件的注释中找到。
 
